@@ -1,0 +1,12 @@
+f2e219fe49e5e91ae5370596a1cbeffe *DESCRIPTION
+ee6f94bce47ea5cb1fd5b0bad4beaf7b *NAMESPACE
+66b78884ca62067e9a960c5a4cc65e10 *R/RcppExports.R
+915e6acdf8fcfd9a1037040a710611d7 *R/checkDataTypes.R
+d174225ba89f0ee9eaa2e4314d11c486 *R/tnam-terms.R
+bfc750ae7891de3295a2831f5e23bab6 *R/tnam.R
+728a2ab1bfe457105be882599f451521 *inst/CITATION
+55743a22c17a0ed63ce834b76a4940b3 *man/tnam-package.Rd
+9a4a942b3a2f7b3b10331600a0e7dba2 *man/tnam-terms.Rd
+96768fbebac8baed3cc13d7b5bf4aba3 *man/tnam.Rd
+e5c8de4e12abf9d6216c2eadfbb7653f *src/RcppExports.cpp
+0d926b73742afd800e53b55cdc4f43cb *src/tnam.cpp
